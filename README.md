@@ -1,0 +1,1 @@
+Şirketler tarafından kullanılabilecek bir istek onay mekanizma sistemi. Kullanıcının isteği üssünün onayına gidecek ve onaylanan istekler bir üsse giden bir döngüde patrona kadar ulaşacak. Patron da onay veirse kullanıcının isteği işleme konulacak. Kullanıcıda isteğinin durumunu gözlemleyebileceği araçlar olacak.
